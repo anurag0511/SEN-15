@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Surveyor</string>
+    <string name="Title">Survey Forms</string>
+    <string name="userguide">Help</string>
+    <string name="sync">Submit to Organisation</string>
+    <string name="refresh">Refresh</string>
+</resources>

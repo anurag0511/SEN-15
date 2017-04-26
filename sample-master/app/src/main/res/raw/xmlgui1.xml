@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xmlgui>
+<form id='1' name='Robotics Club Registration' submitTo='http://servername/xmlgui1-post.php' ><field label='First Name' type='text' required='Y' options=''/><field label='Last Name' type='text' required='Y' options=''/>
+<field label='Gender' type='choice' required='Y' options='Male|Female|sdksfnekfn'/>
+<field label='Age on 15 Oct. 2010' type='numeric' required='N' options=''/>
+<field label='checkbox' type='CheckBox' required='Y' options='meoww|bowwwow|sfnjdnkjdbv'/>
+<field label='checkboxmeoww' type='CheckBox2' required='Y' options='meoww|bowwwow|sfnjdnkjdbv'/>
+</form>
+</xmlgui>
+
